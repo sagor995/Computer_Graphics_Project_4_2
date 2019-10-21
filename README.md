@@ -1,13 +1,21 @@
 <h3>Project Name:</h3>3D Bus (Computer Graphics Lab Project).
 <figure>
+  <img src="project1.png" alt="3D Bus" style="width:100%">
+  <figcaption>Fig. - Demo Pic1.</figcaption>
+</figure><br>
+<figure>
+  <img src="project2.png" alt="3D Bus" style="width:100%">
+  <figcaption>Fig. - Demo Pic2.</figcaption>
+</figure><br>
+<figure>
   <img src="project.png" alt="3D Bus" style="width:100%">
-  <figcaption>Fig. - Demo Pic.</figcaption>
+  <figcaption>Fig. - Demo Pic3.</figcaption>
 </figure>
 
 
 This is current semester (4.2) "Computer Graphics Lab Project" which we have made using JavaScript, WebGL Shader Language.
 
-<h4>Developed By :</h4>
+<h4>Group Project Members :</h4>
 <ul style="list-style-type:square">
 <li>Sagor Ahamed</li>
 
