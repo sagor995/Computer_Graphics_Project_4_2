@@ -13,7 +13,7 @@
 </figure>
 
 
-This is current semester (4.2) "Computer Graphics Lab Project" which we have made using JavaScript, WebGL Shader Language.
+This was our current semester (4.2) "Computer Graphics Lab Project". Which we have made using JavaScript, WebGL Shader Language.
 
 <h4>Group Project Members :</h4>
 <ul style="list-style-type:square">
